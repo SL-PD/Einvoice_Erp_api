@@ -1,0 +1,15 @@
+# Summary
+    
+* [English Version Summary](EN/README.md)
+    * [API delivery format](EN/chapter1.md)
+    * [e-Invoice API List](EN/e-invoice-api-list.md)
+    * [Signature Value Calculation](EN/signature-value-calculation.md)
+    * [Inquiry authorization invoice track and period number](EN/inquiry-authorization-invoice-track-and-period-number.md)
+    * [Update the blank invoice number](EN/update-the-blank-invoice-number.md)
+    * [Batch upload for multiple invoice](EN/batch-upload-for-multiple-invoice.md)
+    * [B2B certificate of invoice](EN/b2b-certificate-of-invoice.md)
+    * [B2C certificate of invoice](EN/b2c-certificate-of-invoice.md)
+    * [Void Invoice Upload Format](EN/fa-piao-zuo-fei-shang-chuan-ge-shi.md)
+    * [Discount Invoice Upload Format](EN/fa-piao-zhe-rang-shang-chuan-ge-shi.md)
+    * [Query upload status of single invoice](EN/cha-xun-dan-bi-fa-piao-shang-chuan-zhuang-tai.md)
+    * [Query upload status of multiple invoices](EN/cha-xun-duo-bi-fa-piao-shang-chuan-zhuang-tai.md)
