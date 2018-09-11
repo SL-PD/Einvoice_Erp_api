@@ -3,7 +3,7 @@
 ```
 POST api/Inquire/GetInvoiceIDList
 ```
-[傳送格式說明](GetInvoiceIDList.html)
+[傳送格式說明](GetInvoiceIDList)
 
 ### 上傳空白發票號
 ```
