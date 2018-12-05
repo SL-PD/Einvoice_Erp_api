@@ -38,7 +38,7 @@
 * AllowanceNumberPrefix: 折讓單號的前置碼\(建議不超過10碼\)
 * SellerID: 賣方統編\(必須為e首發票客戶\)
 * BuyerID: 買方統編
-* AllowanceType: 折讓類型: 預設為1.\(買方上傳折讓\) 2.\(賣方上傳折讓\)
+* AllowanceType: 折讓類型: 預設為2; 1.\(買方上傳折讓\) 2.\(賣方上傳折讓\)
 * TaxAmount: 折讓稅額合計
 * TotalAmount: 折讓未稅金額合計
 * Details: 折讓發票明細
