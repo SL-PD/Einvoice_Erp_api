@@ -7,7 +7,7 @@
   "AllowanceNumberPrefix": "2017061314",
   "SellerID": "12345678",
   "BuyerID": "87654321",
-  "AllowanceType": "1",
+  "AllowanceType": "2",
   "TaxAmount": 40,
   "TotalAmount": 800,
   "Details": [
@@ -38,7 +38,7 @@
 * AllowanceNumberPrefix: 折讓單號的前置碼\(建議不超過10碼\)
 * SellerID: 賣方統編\(必須為e首發票客戶\)
 * BuyerID: 買方統編
-* AllowanceType: 折讓類型: 預設為1\(買方簽回折讓單\) 2\(買方進行折讓\)
+* AllowanceType: 折讓類型: 預設為1.\(買方上傳折讓\) 2.\(賣方上傳折讓\)
 * TaxAmount: 折讓稅額合計
 * TotalAmount: 折讓未稅金額合計
 * Details: 折讓發票明細
