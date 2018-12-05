@@ -7,7 +7,7 @@
   "AllowanceNumberPrefix": "2017061314",
   "SellerID": "12345678",
   "BuyerID": "87654321",
-  "AllowanceType": "1",
+  "AllowanceType": "2",
   "TaxAmount": 40,
   "TotalAmount": 800,
   "Details": [
@@ -38,7 +38,7 @@
 * AllowanceNumberPrefix: Prefix discount number\(Suggest no more than 10 chars\)
 * SellerID: Seller's company tax ID\(Must be the e-Invoice customer\)
 * BuyerID: Buyer's company tax ID
-* AllowanceType: Discount type: Default to 1\(The discount a buyer signs back\) 2\(The buyer makes a discount\)
+* AllowanceType: Discount type: The default code is 2; Code Description 1. (Buyer uploads a discount) 2. (Seller uploads a discount)
 * TaxAmount: Discounted amount of tax
 * TotalAmount: Discounted amount of no tax
 * Details: Discounted invoice details
