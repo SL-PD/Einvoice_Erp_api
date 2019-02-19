@@ -1,8 +1,8 @@
 # Upload Created Invoice Data
 
 ### Example
-B2B Certification [(Example Link)](b2bJsonSample.html)
-B2C Certification [(Example Link)](b2cJsonSample.html)
+B2B Certification [(Example Link)](https://slproject.gitbook.io/sl-einv-project/en/b2b-certificate-of-invoice)
+B2C Certification [(Example Link)](https://slproject.gitbook.io/sl-einv-project/en/b2c-certificate-of-invoice)
 
 <font color='red'>
 If uses api/Append/Order <br />
