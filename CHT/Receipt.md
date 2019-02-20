@@ -2,7 +2,7 @@
 
 ### 範例格式
 B2B存證 [範例](https://slproject.gitbook.io/sl-einv-project/cht/b2bjsonsample)
-B2C存證 [範例](https://slproject.gitbook.io/sl-einv-project/cht/b2cjsonsample
+B2C存證 [範例](https://slproject.gitbook.io/sl-einv-project/cht/b2cjsonsample)
 
 <font color='red'>
 若使用的是 api/Append/Order <br />
