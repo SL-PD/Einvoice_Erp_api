@@ -7,7 +7,7 @@
 ```
   採用的是HTTP POST的方式傳送，以 SHA256簽章值 驗證
   發票版e首發票 API 測試區串接位置：
-  ~~https://teinv.systemlead.com/~~
+  `~~https://teinv.systemlead.com/~~`
   (2019-02-21 後請改用)
   https://webapi.systemlead.com/terpapi 
   其版本與正式區相符，惟正式區網址，待測試區測通後，將由業務人員提供。
