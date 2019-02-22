@@ -5,7 +5,8 @@
 ### 測試區URL
 
 ```
-https://teinv.systemlead.com/
+(2019-02-22 之後)
+https://webapi.systemlead.com/terpapi
 ```
 
 ### 範例格式
