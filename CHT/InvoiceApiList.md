@@ -1,7 +1,6 @@
 ### 查詢授權e首發票下載之發票字軌與期號 
 
 ```
-POST api/Inquire/GetInvoiceIDList
 (2019-02-22 後請改用)
 POST /Inquire/GetInvoiceIDList
 ```
@@ -9,7 +8,6 @@ POST /Inquire/GetInvoiceIDList
 
 ### 上傳空白發票號
 ```
-POST api/Append/TrackBlank
 (2019-02-22 後請改用)
 POST /Append/TrackBlank
 ```
@@ -17,7 +15,6 @@ POST /Append/TrackBlank
 
 ### 更新空白發票號
 ```
-POST api/Update/SetBlankInvoiceID
 (2019-02-22 後請改用)
 POST /Update/SetBlankInvoiceID
 ```
@@ -25,7 +22,6 @@ POST /Update/SetBlankInvoiceID
 
 ### 單筆訂單上傳(即時開立發票)
 ```
-POST api/Append/Order
 (2019-02-22 後請改用)
 POST /Append/Order
 ```
@@ -33,7 +29,6 @@ POST /Append/Order
 
 ### 多筆發票批次上傳
 ```
-POST api/Append/Invoices
 (2019-02-22 後請改用)
 POST /Append/Invoices
 ```
@@ -41,7 +36,6 @@ POST /Append/Invoices
 
 ### 多筆發票批次更新
 ```
-POST api/Update/Invoices
 (2019-02-22 後請改用)
 POST /Update/Invoices
 ```
@@ -54,7 +48,6 @@ POST /Update/Invoices
 
 ### 新增發票並列印
 ```
-POST api/Append/PrintInvoices
 (2019-02-22 後請改用)
 POST /Append/PrintInvoices
 ```
@@ -62,7 +55,6 @@ POST /Append/PrintInvoices
 
 ### 查詢多筆發票最新處理狀態
 ```
-POST api/Inquire/GetInvoicesStatus
 (2019-02-22 後請改用)
 POST /Inquire/GetInvoicesStatus
 ```
@@ -70,7 +62,6 @@ POST /Inquire/GetInvoicesStatus
 
 ### 查詢多筆發票上傳狀態
 ```
-POST api/Inquire/GetInvoicesAppendStatus
 (2019-02-22 後請改用)
 POST /Inquire/GetInvoicesAppendStatus
 ```
@@ -78,7 +69,6 @@ POST /Inquire/GetInvoicesAppendStatus
 
 ### 批次作廢發票
 ```
-POST api/Update/CancelInvoices
 (2019-02-22 後請改用)
 POST /Update/CancelInvoices
 ```
@@ -86,14 +76,12 @@ POST /Update/CancelInvoices
 
 ### 批次作廢空白發票(發票號跳號用)
 ```
-POST api/Append/BlankCancel
 (2019-02-22 後請改用)
 POST /Append/BlankCancel
 ```
 [傳送格式說明](https://slproject.gitbook.io/sl-einv-project/cht/cancelinvoice)
 ### 發票折讓
 ```
-POST api/Update/AllowanceInvoice
 (2019-02-22 後請改用)
 POST /Update/AllowanceInvoice
 ```
