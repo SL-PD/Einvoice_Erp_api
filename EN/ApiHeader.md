@@ -5,7 +5,8 @@ Attention: Before uploading the created invoice, need to confirm **the account h
 ### URL of Test Location
 
 ```
-https://teinv.systemlead.com/
+(after 2019-02-22)
+https://webapi.systemlead.com/terpapi
 ```
 
 ### Example
