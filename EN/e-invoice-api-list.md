@@ -1,7 +1,8 @@
 ### Inquiry authorization invoice track and period number 
 
 ```
-POST api/Inquire/GetInvoiceIDList
+(after 2019-02-22)
+POST Inquire/GetInvoiceIDList
 ```
 <font color="red">Please use the new test location to test API。</font>
 
@@ -9,49 +10,58 @@ POST api/Inquire/GetInvoiceIDList
 
 ### Upload the blank invoice number
 ```
-POST api/Append/TrackBlank
+(after 2019-02-22)
+POST Append/TrackBlank
 ```
 [Sending Data Description](https://slproject.gitbook.io/sl-einv-project/en/upload-the-blank-invoice-number)
 
 ### Update the blank invoice number
 ```
-POST api/Update/SetBlankInvoiceID
+(after 2019-02-22)
+POST Update/SetBlankInvoiceID
 ```
 [Sending Data Description](https://slproject.gitbook.io/sl-einv-project/en/update-the-blank-invoice-number)
 
 ### Batch upload for multiple invoice
 ```
-POST api/Append/Invoices
+(after 2019-02-22)
+POST Append/Invoices
 ```
 [Sending Data Description](https://slproject.gitbook.io/sl-einv-project/en/batch-upload-for-multiple-invoice)
 ### Batch update for multiple invoice
 ```
-POST api/Update/Invoices
+(after 2019-02-22)
+POST Update/Invoices
 ```
 [Sending Data Description](https://slproject.gitbook.io/sl-einv-project/en/batch-upload-for-multiple-invoice)
 ### Upload multiple invoice and Print
 ```
-POST api/Append/PrintInvoices
+(after 2019-02-22)
+POST Append/PrintInvoices
 ```
 [Sending Data Description](https://slproject.gitbook.io/sl-einv-project/en/batch-upload-for-multiple-invoice)
 ### Query multiple invoice upload status
 ```
-POST api/Inquire/GetInvoicesAppendStatus
+(after 2019-02-22)
+POST Inquire/GetInvoicesAppendStatus
 ```
 [Sending Data Description](https://slproject.gitbook.io/sl-einv-project/en/cha-xun-duo-bi-fa-piao-shang-chuan-zhuang-tai)
 ### Batch void invoice
 ```
-POST api/Update/CancelInvoices
+(after 2019-02-22)
+POST Update/CancelInvoices
 ```
 [Sending Data Description](https://slproject.gitbook.io/sl-einv-project/en/fa-piao-zuo-fei-shang-chuan-ge-shi)
 ### Batch void blank invoice 
 ##### (Used when the invoice number is not sequential and produces a blank number)
 ```
-POST api/Append/BlankCancel
+(after 2019-02-22)
+POST Append/BlankCancel
 ```
 [Sending Data Description](https://slproject.gitbook.io/sl-einv-project/en/fa-piao-zuo-fei-shang-chuan-ge-shi)
 ### Invoice discount
 ```
-POST api/Update/AllowanceInvoice
+(after 2019-02-22)
+POST Update/AllowanceInvoice
 ```
 [Sending Data Description](https://slproject.gitbook.io/sl-einv-project/en/fa-piao-zhe-rang-shang-chuan-ge-shi)
