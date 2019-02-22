@@ -8,7 +8,8 @@ This document is mainly e-Invoice API related documentation. The program is stil
   Using the HTTP POST mode to pass the invoice data, and confirming with SHA256 signature.
 
   e-Invoice(invoice edition) API Test Location is below.
-  https://teinv.systemlead.com/
+  (after 2019-02-22)
+  https://webapi.systemlead.com/terpapi
 
   The API version in test area is consistent with the formal area. After the test site is passed, the official site will be provided by the business staff.
 ```
