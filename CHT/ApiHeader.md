@@ -47,8 +47,8 @@ https://webapi.systemlead.com/terpapi
 |--:|--|--|--|--|
 |CompanyID|賣方公司統一編號|Char|8|須為e首發票商家|
 |Timestamp|時間戳記|String||相關轉換請參考 [[http://www.epochconverter.com/](http://www.epochconverter.com/)]|
-|Signature|簽章驗證值|String||產生方法可參閱[簽章驗證碼](Signature.html)說明|
-|Data|傳送資料|String||產生方法可參閱[e首發票API清單](InvoiceApiList.html)中各API的格式說明|
+|Signature|簽章驗證值|String||產生方法可參閱[簽章驗證碼](https://slproject.gitbook.io/sl-einv-project/cht/signature)說明|
+|Data|傳送資料|String||產生方法可參閱[e首發票API清單](https://slproject.gitbook.io/sl-einv-project/cht/invoiceapilist)中各API的格式說明|
 
 
 
