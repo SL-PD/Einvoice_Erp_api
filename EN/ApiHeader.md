@@ -50,8 +50,8 @@ The sending data format description uses multiple data Json as an example.
 | :--- | :--- | :--- | :--- | :--- | :--- |
 |  | CompanyID | Seller's Company Tax ID | Char | 8 | Mustbee-Invoicebusiness |
 |  | Timestamp | Timestamp | String |  | Reference: \[[http://www.epochconverter.com/](http://www.epochconverter.com/)\] |
-|  | Signature | Signature verification value | String |  | Reference:[Signature verification code](Signature.html) |
-|  | Data | SendindData | String |  | Reference:[e-Invoice API List](InvoiceApiList.html) |
+|  | Signature | Signature verification value | String |  | Reference:[Signature verification code](https://slproject.gitbook.io/sl-einv-project/en/signature-value-calculation) |
+|  | Data | SendindData | String |  | Reference:[e-Invoice API List](https://slproject.gitbook.io/sl-einv-project/en/e-invoice-api-list) |
 
 
 
