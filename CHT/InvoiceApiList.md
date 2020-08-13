@@ -29,7 +29,7 @@ POST /Append/Orders
 ```
 [傳送格式說明](https://slproject.gitbook.io/sl-einv-project/cht/receipt)
 
-### 發票批次上傳
+### 發票批次上傳(發票版)
 ```
 POST /Append/Invoices
 ```
