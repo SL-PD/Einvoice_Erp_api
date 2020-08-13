@@ -17,7 +17,7 @@ POST /Update/SetBlankInvoiceID
 ```
 [傳送格式說明](https://slproject.gitbook.io/sl-einv-project/cht/setblankinvoice)
 
-### 訂單上傳(訂單版)
+### 單筆訂單上傳(訂單版)
 ```
 POST /Append/Order
 ```
