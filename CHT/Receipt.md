@@ -5,7 +5,7 @@ B2B存證 [範例](https://slproject.gitbook.io/sl-einv-project/cht/b2bjsonsampl
 B2C存證 [範例](https://slproject.gitbook.io/sl-einv-project/cht/b2cjsonsample)
 
 <font color='red'>
-若使用的是 api/Append/Order <br />
+若使用的是 /Append/Order <br />
 則 不須傳入 <br />
 InvoiceID、InvoiceDateTime <br />
 但 必須傳入 <br />
@@ -13,7 +13,7 @@ RelateNumber 且必須不重複 <br />
 </font>
 
 <font color='green'>
-若使用的是 api/Append/PrintInvoices <br />
+若使用的是 /Append/PrintInvoices <br />
 則依照原開立發票格式上傳即可 <br />
 </font>
 
