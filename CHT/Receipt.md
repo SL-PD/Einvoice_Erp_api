@@ -66,7 +66,7 @@ X: 不須提供資料
 |MainRemark|發票備註|String|200|O|O|發票備註|
 |UseFor|選擇使用發票組別|String|2|O|O|對應api/Inquire/GetInvoiceIDList中Details內的 UseFor欄位|
 |PrinterNo|印表機編號|String|2|O|O|指定列印的印表機號；例如: 00、01|
-|PrintWithDetail|選擇是否列印明細|String|1|O|O|1:僅列印明細，2:僅列印發票，3:同時列印發票與明細|
+|PrintWithDetail|選擇是否列印明細|String|1|O|O|2:僅列印發票，3:同時列印發票與明細|
 |Details|發票明細內容|Json Format Object||M|M|單身明細|
 
 #### Details 發票明細內容格式說明
