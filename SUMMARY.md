@@ -12,7 +12,7 @@
   * [B2C存證發票範本](CHT/b2cJsonSample.md)
   * [發票作廢上傳格式](CHT/CancelInvoice.md)
   * [折讓單上傳格式](CHT/InsertAllowance.md)
-  * [作廢折讓單上傳格式](CHT/CAllowance.md)
+  * [作廢折讓單上傳格式](CHT/CancelAllowance.md)
   * [查詢發票處理狀態](CHT/GetInvoicesStatus.md)
   * [查詢發票上傳狀態](CHT/GetInvoicesAppendStatus.md)
   * [上傳空白發票號](CHT/TrackBlank.md)
