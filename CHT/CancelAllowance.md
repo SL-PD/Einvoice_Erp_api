@@ -12,7 +12,7 @@
 ```
 ### 欄位說明
 * SellerID: 賣方統編\(必須為e首發票客戶\)
-* AllowanceNumber: 作廢發票號碼
-* CancelDate: 發票作廢時間
-* CancelReason: 作廢發票原因
+* AllowanceNumber: 作廢折讓單號碼
+* CancelDate: 作廢折讓單時間
+* CancelReason: 作廢折讓單原因
 * Remark: 作廢折讓單備註
