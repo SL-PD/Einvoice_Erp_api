@@ -76,12 +76,17 @@ POST /Append/BlankCancel
 ```
 [傳送格式說明](https://slproject.gitbook.io/sl-einv-project/cht/cancelinvoice)
 
-### 發票折讓
+### 開立折讓單
 ```
 POST /Update/AllowanceInvoice
 ```
 [傳送格式說明](https://slproject.gitbook.io/sl-einv-project/cht/insertallowance)
 
+### 作廢折讓單
+```
+POST /Update/CancelAllowance
+```
+[傳送格式說明](https://slproject.gitbook.io/sl-einv-project/cht/cancelallowance)
 
 
 
