@@ -84,7 +84,7 @@ POST /Update/AllowanceInvoice
 
 ### 作廢折讓單
 ```
-POST /Update/CancelAllowance
+POST /Update/CancelAllowances
 ```
 [傳送格式說明](https://slproject.gitbook.io/sl-einv-project/cht/cancelallowance)
 
