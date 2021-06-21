@@ -42,7 +42,7 @@ X: 不須提供資料
 |InvoiceFor|Invoice For Buyer|String|1|M|M|發票開立對象，使用B2B存證填寫B，使用B2C存證填寫C|
 |BuyerID|Buyer BAN|String|10|M|M|買方統編，若為自然人須為 000000000 (10個0)|
 |BuyerInvoiceTitle|Buyer Company Name|String|60|M|O|買方公司名稱|
-|BuyerName|BuyerName|String|60|O|O|購買人姓名|
+|BuyerName|BuyerName|String|30|O|O|購買人姓名|
 |BuyerTelNo|Buyer Telephone Number|string|26|O|O|買方電話號碼，若要傳送簡訊則此欄位填寫行動電話號碼|
 |BuyerEmail|Buyer Email|String|80|O|O|買方電子郵件帳號，如果PrintMark=N此欄位與[買方電話號碼]兩者必填其一，否則電子發票通知無法寄送|
 |BuyerAddress|Buyer Address|String|100|O|O|如要寄送實體發票，此欄位必填|
