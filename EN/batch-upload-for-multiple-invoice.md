@@ -41,7 +41,7 @@ X: No information required
 |InvoiceFor|Invoice For Buyer|String|1|M|M|Object who invoice create to. Using B2B to fill in B, using B2C to fill in C|
 |BuyerID|Buyer BAN|String|10|M|M|Buyer's Company Tax ID|
 |BuyerInvoiceTitle|Buyer Company Name|String|60|M|O|Buyer Company Name|
-|BuyerName|BuyerName|String|60|O|O|Buyer Name|
+|BuyerName|BuyerName|String|30|O|O|Buyer Name|
 |BuyerTelNo|Buyer Telephone Number|string|26|O|O|The Buyer's phone number. In order to send a text message, this field will fill in the mobile phone number|
 |BuyerEmail|Buyer Email|String|80|O|O|Buyer email account. If PrintMark=N, This field and [Buyer's phone number] are required for either, otherwise the electronic invoice notification can not be sent|
 |BuyerAddress|Buyer Address|String|100|O|O|To send an entity invoice, this field is required|
