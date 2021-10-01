@@ -29,7 +29,7 @@ ProcessStatus：處理狀態 <br />
 ProcessStatusMessage: 處理狀態訊息 <br />
 
 ### 狀態說明
-## 發票開立
+#### 發票開立
 |ProcessStatus|ProcessStatusMessage|
 |---|---|
 |I0|開立新增|
@@ -38,7 +38,7 @@ ProcessStatusMessage: 處理狀態訊息 <br />
 |I9|開立上傳完成|
 |IP|開立暫停上傳|
 
-## 發票作廢
+#### 發票作廢
 |ProcessStatus|ProcessStatusMessage|
 |---|---|
 |C0|作廢新增|
@@ -47,7 +47,7 @@ ProcessStatusMessage: 處理狀態訊息 <br />
 |C9|作廢上傳完成|
 |CP|作廢暫停上傳|
 
-## 折讓單開立
+#### 折讓單開立
 |ProcessStatus|ProcessStatusMessage|
 |---|---|
 |A0|折讓新增|
@@ -56,7 +56,7 @@ ProcessStatusMessage: 處理狀態訊息 <br />
 |A9|折讓上傳完成|
 |AP|折讓暫停上傳|
 
-## 折讓單作廢
+#### 折讓單作廢
 |ProcessStatus|ProcessStatusMessage|
 |---|---|
 |D0|折讓作廢新增|
