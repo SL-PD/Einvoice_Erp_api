@@ -73,7 +73,7 @@ X: 不須提供資料
 #### Details 發票明細內容格式說明
 
 |欄位名稱|欄位說明|欄位型態|欄位長度|B2B|B2C|條件說明|
-|--|
+|--|--|--|--|--|--|--|
 |DetailID|Serial Nnmber|String|3|M|M|三碼數字編碼，依序 001 002 不足三碼左邊補 0|
 |ProductID|Product ID|String|20|O|O|產品代碼|
 |ProductName|Product DEscription|string|256|M|M|產品名稱|
