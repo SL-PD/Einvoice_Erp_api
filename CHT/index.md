@@ -16,7 +16,7 @@
 ```
 POST /Inquire/GetInvoiceIDList
 ```
-[傳送格式說明](getinvoiceidlist)
+[傳送格式說明](getinvoiceidlist.md)
 
 ### 上傳空白發票號
 ```
