@@ -38,7 +38,7 @@ X: 不須提供資料
 |--|--|--|--|--|--|--|
 |CompanyID|Seller BAN|String|10|M|M|賣方統編(必須為e首發票客戶)|
 |InvoiceID|Invoice Number|String|10|M|M|發票字軌含流水號例如 QQ12345678|
-|InvoiceDateTime|Invoice Create DateTime|DateTime||M|M|發票開立時間，請採用ISO 8601格式傳遞UTC Time 例如：<br /> 2011-07-14T19:43:37|
+|InvoiceDateTime|Invoice Create DateTime|DateTime||M|M|發票開立時間(訂單版得不需傳入)，請採用ISO 8601格式傳遞UTC Time 例如：<br /> 2011-07-14T19:43:37|
 |InvoiceFor|Invoice For Buyer|String|1|M|M|發票開立對象，使用B2B存證填寫B，使用B2C存證填寫C|
 |BuyerID|Buyer BAN|String|10|M|M|買方統編，若為自然人須為 000000000 (10個0)|
 |BuyerInvoiceTitle|Buyer Company Name|String|60|M|O|買方公司名稱|
