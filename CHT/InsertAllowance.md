@@ -47,7 +47,7 @@
   #### 折讓單身
 * InvoiceNumber: 折讓發票號
 * SequenceNumber: 折讓發票原始序號
-* Description: 折讓明細
+* Description: 折讓品名
 * Amount: 折讓金額
 * Quantity: 折讓數量
 * UnitPrice: 折讓未稅單價
